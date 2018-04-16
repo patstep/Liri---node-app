@@ -23,7 +23,7 @@ var searchMovie;
  function liri() {
  	if (command === 'my-tweets') {
  		myTweets();
- 	} else if (command === 'spotify-this-sogn') {
+ 	} else if (command === 'spotify-this-song') {
  		spotifyThisSong();
  	} else if (command === 'movie-this') {
  		movieThis();
